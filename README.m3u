@@ -1077,6 +1077,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/7277/index.m3u8
 
+#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="UK| SKY SPORTS GOLF HD"  tvg-logo="https://lo1.in/uk/skyspgl.png", 823 UK| SKY SPORTS GOLF HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+http://extraott.com:900/live/3162523972/3791698850/191685.m3u8
+
 #=================== Sport FHD Only =============================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
