@@ -2093,11 +2093,12 @@ https://get.perfecttv.net/get_vidio.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #===============ONE CENT THIF=========================================
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="One Cent Thief" tvg-logo="https://get.perfecttv.net/logo/onecents1e1.png" group-title="● One Cent Thief",S01 E01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7918c907513c5e3dba456583ec405aa0:185abce7abbf3322d78775b7b14dac28
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=onecentS1e1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDMwNzczMTksImlzcyI6IlZSIiwiZXhwIjoxNzQzMTE0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._wHAFGymb_sYj6AfTVXOWN6h8n3XvS-37GQszyTgO64
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=onecentS1e1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDMxNjYwNTMsImlzcyI6IlZSIiwiZXhwIjoxNzQzMjAxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.IMSU9ylRPKKHkoIu1RGiLFnL07eKivyRAljxC1JEMwA
 
 #EXTINF:-1 tvg-id="" tvg-name="One Cent Thief" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/25dd64KDPPY_vod.jpg" group-title="● One Cent Thief",S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
