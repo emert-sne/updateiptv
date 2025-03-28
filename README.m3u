@@ -596,12 +596,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=c9ec474742854a9c95bdc93682eadb87:c74ecc2bac2876d4b709c0ec01eaa6c2
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mycinemaasia
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103/
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/148_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASTRO FIRST (ASTRO GO)",ASTRO FIRST 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
-
-
 #====entertainment=====
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="ENTERTAINMENT" group-logo="" tvg-logo="https://get.perfecttv.net/logo/axn.png",168 AXN
