@@ -1,2 +1,0 @@
-# updateiptv
-Iptv EmertTV updater
