@@ -250,8 +250,6 @@ https://get.perfecttv.net/unifi.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 tvg-id="SET" ch-number="103" tvg-name="SET" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/nowjelli.png",124 Now Jelli
 https://get.perfecttv.net/unifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nowjelli
 
-
-
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="333.astro" tvg-logo="https://get.perfecttv.net/logo/huaheedai.png" group-logo="" group-title ="",125 Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
@@ -1293,49 +1291,49 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 
 ################# HBO MAX #######################################3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/963a84cd-e35a-3e34-87bc-a64ede11c701.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/963a84cd-e35a-3e34-87bc-a64ede11c701.jpeg" group-title="▶ HBO MAX", Harry Potter 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=16e04231-69f4-4865-8538-69407a3b7711
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=16e04231-69f4-4865-8538-69407a3b7711&sub=t12
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/43681996-e918-3bd8-bbaf-d32c83369dd8.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/43681996-e918-3bd8-bbaf-d32c83369dd8.jpeg" group-title="▶ HBO MAX", Harry Potter 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18&sub=t42
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/0145115c-4c19-3869-bcf4-1c43e41921a9.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/0145115c-4c19-3869-bcf4-1c43e41921a9.jpeg" group-title="▶ HBO MAX", Potter 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/7a541bd5-64e2-3188-8d66-067f330ad814.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/7a541bd5-64e2-3188-8d66-067f330ad814.jpeg" group-title="▶ HBO MAX", Harry Potter 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f0c79c62-0e8a-420a-bbab-35ad3587b683
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f0c79c62-0e8a-420a-bbab-35ad3587b683&sub=t32
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/e7ba3b8d-0149-3c34-8d8e-f11c22dcbadd.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/e7ba3b8d-0149-3c34-8d8e-f11c22dcbadd.jpeg" group-title="▶ HBO MAX", Harry Potter 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=03a29f9d-b292-4ef8-861d-c911c0398447
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=03a29f9d-b292-4ef8-861d-c911c0398447&sub=t30
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/8a999684-46a5-3cf9-a13d-ea2d1bb10162.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/8a999684-46a5-3cf9-a13d-ea2d1bb10162.jpeg" group-title="▶ HBO MAX", Harry Potter 6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=97214560-494d-4180-887d-cdd66664bc9e
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97214560-494d-4180-887d-cdd66664bc9e&sub=t44
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/782993c8-4a2c-392b-a271-dafbb8457be2.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 7 Pt1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/782993c8-4a2c-392b-a271-dafbb8457be2.jpeg" group-title="▶ HBO MAX", Harry Potter 7 Pt1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/568e644a-eb9b-380c-bad9-367ff862fea1.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 7 Pt2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/568e644a-eb9b-380c-bad9-367ff862fea1.jpeg" group-title="▶ HBO MAX", Harry Potter 7 Pt2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
