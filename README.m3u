@@ -160,7 +160,7 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121 Citra
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
