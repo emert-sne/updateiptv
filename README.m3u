@@ -334,8 +334,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
 #EXTINF:-1 tvg-id="311" tvg-name="Astro AOD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Astro AOD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
-#http://jlwmedia.xyz:80/rainbow1/rainbow1/2599202.ts
+http://jlwmedia.xyz:80/rainbow1/rainbow1/2599202.ts
 
 #====korea=======
 
