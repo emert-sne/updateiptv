@@ -850,11 +850,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 #======sport=====
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/unifisport.png", 699 Unifi Sport
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/unifisport.png", 699 Unifi Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=unifisport
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109", 699(2) Unifi Sport 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/sukanrtm.png", 700 RTM Sukan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
