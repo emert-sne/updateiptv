@@ -1063,12 +1063,6 @@ http://extraott.com:900/live/3162523972/3791698850/191685.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://extraott.com:900/live/3162523972/3791698850/153699.m3u8
 
-#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="UK| SKY SPORTS GOLF HEVC"  tvg-logo="https://lo1.in/uk/skyspgl.png", 824 UK| SKY SPORTS GOLF HEVC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-http://extraott.com:900/live/3162523972/3791698850/433209.m3u8
-
-
 
 #=================== Sport FHD Only =============================================
 
