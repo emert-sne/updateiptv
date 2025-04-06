@@ -1048,17 +1048,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
-#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="SK Golf"  tvg-logo="https://tvprofil.com/img/kanali-logo/SK_Golf_logo.png?1737017460", 822 SPORT KLUB GOLF HD
+#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="supersportgolf.za"  tvg-logo="https://tvprofil.com/img/kanali-logo/SK_Golf_logo.png?1737017460", 822 SPORT KLUB GOLF HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/7277/index.m3u8
+http://extraott.com:900/live/3162523972/3791698850/159887.m3u8
 
 #EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="UK| SKY SPORTS GOLF HD"  tvg-logo="https://lo1.in/uk/skyspgl.png", 823 UK| SKY SPORTS GOLF HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://extraott.com:900/live/3162523972/3791698850/191685.m3u8
 
-#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="UK| SKY SPORTS GOLF HD"  tvg-logo="https://lo1.in/uk/skyspgl.png", 823 UK| SKY SPORTS GOLF FHD
+#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="UK| SKY SPORTS GOLF HD"  tvg-logo="https://lo1.in/uk/supsp.png",DSTV| SUPER SPORT GOLF HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://extraott.com:900/live/3162523972/3791698850/153699.m3u8
