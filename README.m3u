@@ -3393,6 +3393,17 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 #EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239442/1166240843/ddc88535e1425e997ad0e3d2a4ac058cbaa5ee85" group-title="● Series VIU", 98-Ep10 Bidaah
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239442&quality=s240p&product_id=2595277&lang=ms
 
+#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239452/1166241077/ce182af4816b6575feac93555e5d43606ab031fd" group-title="● Series VIU", 98-Ep11 Bidaah
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239452&quality=s240p&product_id=2595299&lang=ms
+
+#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166240093/1166240186/3bf61ecdbf0865e9b8bd44365a59595c8d560de6" group-title="● Series VIU", 98-Ep12 Bidaah
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166240093&quality=s240p&product_id=2597436&lang=ms
+
+#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239562/1166240366/d9dfc49136d6dc2599f532804769bd1b441f53b2" group-title="● Series VIU", 98-Ep13 Bidaah
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239562&quality=s240p&product_id=2595702&lang=ms
+
+#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239557/1166241517/04c4fe9cf66158ba5defd164af989ac4b428c30d" group-title="● Series VIU", 98-Ep14 Bidaah
+
 #==========VOD BOLLYWOOD===================
 
 #EXTINF:-1 tvg-id="b999" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/970/255970-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD", BOLLYWOOD -4-Khiladi 786
