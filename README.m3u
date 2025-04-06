@@ -78,7 +78,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGRkNTAwMWEtYTY5Yy0zZTVlLWI1YmUtNjc5OGNiYTQyNWMy
-#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/sensasi.png",110 Sensasi
+#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Astro_Sensasi_%28Dec_2024%29.png/800px-Astro_Sensasi_%28Dec_2024%29.png",110 Sensasi
 https://get.perfecttv.net/unifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
 
 
