@@ -246,44 +246,16 @@ http://extraott.com/live/3162523972/3791698850/45097.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://jomtv.vip:2082/live/pockettv/pockettv/1578.ts
 
-#=====singapore==========
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="CHANNEL 5 SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/640px-Mediacorp_Channel_5_2023.svg.png" ,CHANNEL 5 SG
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33003
 
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="SURIA SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png" , SURIA SG
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey, 
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/401530235
-
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="CHANNEL U SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/MU_2023.svg/revision/latest/scale-to-width-down/284?cb=20230207235427" , CHANNEL U SG
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33002
-
-#EXTINF:-1 tvg-id="VASANTHAM SG" tvg-name="VASANTHAM SG" group-title="SINGAPORE" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/1024px-Mediacorp_Vasantham_2023.svg.pn", VASANTHAM SG
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
-#https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
-http://tvking.xyz:8080/live/pockettv/pockettv15/8511.m3u8
 
 =====RELIGION=====
-#EXTINF:-1 tvg-id="MAKKAH" ch-number="" tvg-name="MAKKAH" group-title="RELIGION" tvg-logo="https://e7.pngegg.com/pngimages/738/739/png-clipart-kaaba-mecca-kaaba-great-mosque-of-mecca-medina-umrah-islam-angle-rectangle-thumbnail.png",MAKKAH
+#EXTINF:-1 tvg-id="MAKKAH" ch-number="" tvg-name="MAKKAH" group-title="RELIGION" tvg-logo="https://e7.pngegg.com/pngimages/706/1020/png-clipart-kaaba-pakistan-medina-television-channel-live-television-kaaba-miscellaneous-television.png",MAKKAH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://xtvplayer.top:8080/sami4465/755488995/10
 
-#EXTINF:-1 tvg-id="MADINAH" ch-number="" tvg-name="MADINAH" group-title="RELIGION" tvg-logo="https://www.slazzer.com/downloads/8d875643-0588-11f0-a8bc-b347d7ab6478/1000552738_prev_ui.png ",MADINAH
+#EXTINF:-1 tvg-id="MADINAH" ch-number="" tvg-name="MADINAH" group-title="RELIGION" tvg-logo="https://e7.pngegg.com/pngimages/758/259/png-clipart-medina-mecca-television-channel-streaming-media-others-miscellaneous-television.png ",MADINAH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
