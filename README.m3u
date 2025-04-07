@@ -169,19 +169,19 @@ https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab3362
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://1938ecee77d844ba8727487421f36e44.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH3_LAWAK/dash.mpd?aws.sessionId=440ab476-481d-4d09-b7b0-3664e8652ede
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://perfecttv.net/logo/ohmyceria.png" ,126 Oh My Ceria
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/800px-Sooka_Oh_My_Ceria.png" ,126 Oh My Ceria
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd?aws.sessionId=653a17be-4813-4757-8724-ae68ab7a34b7
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://perfecttv.net/logo/dramahebat.png" ,127 Drama Hebat
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png" ,127 Drama Hebat
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd?aws.sessionId=449fab5e-19fb-4843-9cc5-8209e03a725d
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://perfecttv.net/logo/filemmantap.png" ,128 Filem Mantap
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" ,128 Filem Mantap
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd?aws.sessionId=273a091c-2f5b-4571-bf71-269dbd89263e
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://perfecttv.net/logo/dramahotpot.png" ,129 Drama Hotpot
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sooka_Drama_Hotpot.png/1100px-Sooka_Drama_Hotpot.png" ,129 Drama Hotpot
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH4_DRAMAHOTPOT/dash.mpd?aws.sessionId=556d7c21-4b5b-4d9b-8021-014923e53be9
 
@@ -4116,7 +4116,7 @@ https://get.perfecttv.net/get_tonton.m3u8?username=vip_3klp0es8&password=wg3piwE
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
 #EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA",109 Awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/INDOSIAR_Logo.svg/2552px-INDOSIAR_Logo.svg.png" group-title="INDONESIA",Indosiar
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA",Trans7
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
@@ -4124,9 +4124,9 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
 #EXTINF:-1 tvg-id="" tvg-name="138 Thrill" tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="MOVIES",138 Thrill
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2703.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA",RCTI
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA",MNCTV
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/MNC_Media_2015.png" group-title="INDONESIA",MNCTV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
