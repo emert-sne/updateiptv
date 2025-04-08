@@ -950,7 +950,7 @@ https://get.perfecttv.net/linear.mpd?username=vip_3klp0es8&password=wg3piwEs&cha
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrouhd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://get.perfecttv.net/logo/premierleagueB.png",806 Premier League 1 (B)
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/640px-Astro_Premier_League_1_%282024%29.png",806 Premier League 1 (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -958,7 +958,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 https://wakutv.site/epl1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://get.perfecttv.net/logo/premierleagueC.png",806 Premier League 1 (C)
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/640px-Astro_Premier_League_1_%282024%29.png",806 Premier League 1 (C)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4102,7 +4102,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
 #EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="MOVIES",148 Galaxy
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
-#EXTINF:-1 tvg-id="" tvg-name="169 KIX" tvg-logo="https://perfecttv.net/logo/kix.png" group-title="ENTERTAINMENT",169 KIX
+#EXTINF:-1 tvg-id="" tvg-name="169 KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg" group-title="ENTERTAINMENT",169 KIX
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2693.ts
 #EXTINF:-1 tvg-id="" tvg-name="154 SonyPix" tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="MOVIES",154 SonyPix
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
@@ -4118,7 +4118,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2684.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2683.ts
 #EXTINF:-1 tvg-id="" tvg-name="806 Premier League (A)" tvg-logo="https://perfecttv.net/logo/premierleagueA.png" group-title="⚽︎ SPORTS",806 Premier League (A)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2A.png" group-title="⚽︎ SPORTS",804 Arena Bola 2
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png" group-title="⚽︎ SPORTS",804 Arena Bola 2
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
 #EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaA.png" group-title="⚽︎ SPORTS",803 Arena Bola
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
