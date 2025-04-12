@@ -244,7 +244,7 @@ http://jomtv.vip:2082/live/pockettv/pockettv/1407.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://extraott.com/live/3162523972/3791698850/45097.ts
 
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://images.seeklogo.com/logo-png/32/2/antv-2009-logo-png_seeklogo-327065.png" ,ANTV
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://i.pinimg.com/736x/59/31/7e/59317e808b77312a45d4f4829aa1347e.jpg" ,ANTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -297,7 +297,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest.type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36978c8e295e42ccbcc45d719e32e7f3:22c4936cc4dcab2daf96a36a5c12257e
-#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://get.perfecttv.net/logo/qj.png" ,127 QJ (A)
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Astro_QJ_%282024%29.png/800px-Astro_QJ_%282024%29.png" ,127 QJ (A)
 https://get.perfecttv.net/linear.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qj|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQwNjU3MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ0MTUxNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.cmNR8ZgatrNPYtzGe_I_2U57GvccAgIxzSonqVjUPc4
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3937,7 +3937,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA",Trans Tv
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
-#EXTINF:-1 tvg-id="" tvg-name="138 Thrill" tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="MOVIES",138 Thrill
+#EXTINF:-1 tvg-id="" tvg-name="138 Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="MOVIES",138 Thrill
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2703.ts
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
