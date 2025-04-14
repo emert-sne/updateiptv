@@ -3927,7 +3927,7 @@ https://get.perfecttv.net/get_tonton.m3u8?username=vip_3klp0es8&password=wg3piwE
 https://get.perfecttv.net/get_tonton.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450985
 
 
-#EXTINF:-1 tvg-id="" tvg-name="143 HBO Signature" tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="MOVIES",143 HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="143 HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",143 HBO Signature
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
 #EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA",109 Awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
