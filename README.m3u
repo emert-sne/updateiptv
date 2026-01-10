@@ -28,7 +28,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&chan
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
-https://zozotv.xyz:443/live/Hamzah79/abc12345/20.ts
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ntv7
 
 #EXTINF:-1 tvg-id="8tv" tvg-name="8TV" group-title="MALAYSIA"  tvg-logo="https://get.perfecttv.net/logo/8tv.png",105 8TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
