@@ -81,13 +81,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
 #EXTINF:-1 tvg-id="513.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="Berita",Al Jazeera
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ry.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
 #EXTINF:-1 tvg-id="512.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_Berita_v2.png" group-title="Berita",BBC Berita
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ry.mpd
 
 #EXTINF:-1 tvg-id="BERITARTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png" group-title="Berita",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=1
@@ -96,25 +96,25 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 #EXTINF:-1 tvg-id="502.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="Berita",BERNAMA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ry.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 #EXTINF:-1 tvg-id="517.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png" group-title="Berita",Bloomberg
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ry.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
 #EXTINF:-1 tvg-id="503.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-title="Berita",CGTN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ry.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
 #EXTINF:-1 tvg-id="515.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_Berita_Asia_v1.png" group-title="Berita",CNA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ry.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
@@ -660,7 +660,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-https://wakutv.site/bola1.mpd
+https://nanopi.rocket-ott.shop/Arena_Bola/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://get.perfecttv.net/logo/arenabolaC.png" group-title="⚽︎ SPORTS",803 Arena Bola(C)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -668,7 +668,7 @@ https://wakutv.site/bola1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
-https://ktpremium.shop/live/RY481/3619/912889.ts
+https://nanopi.rocket-ott.shop/Arena_Bola_2/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://get.perfecttv.net/logo/arenabola2B.png" group-title="⚽︎ SPORTS",804 Arena Bola 2 (B)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -4107,12 +4107,14 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
 #EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/640px-Astro_Arena_Bola_1_%282024%29.png" group-title="⚽︎ SPORTS",803 Arena Bola
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
-#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="MALAYSIA",121 Citra(B)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
-#EXTINF:-1 tvg-id="" tvg-name="119 Ria(B)" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" group-title="MALAYSIA",119 Ria(B)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
+#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="MALAYSIA",121 Citra
+#EXTHTTP:{"X-Token":"e783d9dc4b5e5636ef9036984a4c7d0352303561636e6d2b65366167676d4b75535a597a327878615a6371787768394334656b4d457049677a6c303d"}
+https://nanopi.rocket-ott.shop/Astro_Citra/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-name="119 Ria(B)" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" group-title="MALAYSIA",119 Ria
+hhttps://nanopi.rocket-ott.shop/Astro_Ria/default_primary.mpd
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,118 Prima (B)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
+#EXTHTTP:{"X-Token":"e783d9dc4b5e5636ef9036984a4c7d0352303561636e6d2b65366167676d4b75535a597a327878615a6371787768394334656b4d457049677a6c303d"} 
+https://nanopi.rocket-ott.shop/Astro_Prima/default_primary.mpd
 #EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019) N2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="▶ VOD NETFLIX",6 Underground (2019) N2
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2400.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Family Affair (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="▶ VOD NETFLIX",A Family Affair (2024)
