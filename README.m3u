@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="┃ASIA┃ ASTRO MALAYSIA",┃MY┃ 8TV
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=383161&extension=ts
 #EXTINF:-1 group-title="┃ASIA┃ ASTRO MALAYSIA",┃MY┃ ADITHYA
